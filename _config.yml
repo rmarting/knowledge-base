@@ -4,8 +4,8 @@ description: >-
   This is my own Knowledge Base with a list of short articles
   with solutions, workarounds, sample code, technical notes, ...
   whatever I have learned in some moment and I don't want to forget.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/knowledge-base"
+url: "https://kb.jromanmartin.io"
 twitter_username: jromanmartin
 github_username:  rmarting
 
