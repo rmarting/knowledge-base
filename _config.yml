@@ -1,1 +1,22 @@
-theme: jekyll-theme-time-machine
+title: Roman's Knowledge Base
+email: jromanmartin@gmail.com
+description: >- 
+  This is my own Knowledge Base with a list of short articles
+  with solutions, workarounds, sample code, technical notes, ...
+  whatever I have learned in some moment and I don't want to forget.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jromanmartin
+github_username:  rmarting
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-hacker
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-toc
