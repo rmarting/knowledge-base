@@ -1,5 +1,10 @@
 ---
-layout: default
+layout: post
+date: 2020-10-16
+tags:
+- OpenShift
+- Routes
+- Networking
 ---
 
 ## Activate Round Robin OCP Routes
@@ -28,4 +33,5 @@ Defining *Round Robin* balance strategy:
 
 * * *
 
-[OpenShift Knowledge Base](/openshift)
+[OpenShift Knowledge Base](./)
+[Knowledge Base](../)

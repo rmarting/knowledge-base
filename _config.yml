@@ -5,9 +5,14 @@ description: >-
   with solutions, workarounds, sample code, technical notes, ...
   whatever I have learned in some moment and I don't want to forget.
 baseurl: "/knowledge-base"
-url: "https://kb.jromanmartin.io"
+url: "https://blog.jromanmartin.io"
+author: Roman Martin
+
 twitter_username: jromanmartin
-github_username:  rmarting
+github_username: rmarting
+
+google_analytics: UA-179063099-2
+show_downloads: true
 
 # Build settings
 markdown: kramdown
